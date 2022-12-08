@@ -2,7 +2,7 @@
 <h2 align="center"> print('Github da Empresa')</h2>
 
 <div align="center">
-  <a href="https://github.com/Akiyuki090">
+  <a href="https://github.com/Akiyuk1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Akiyuk1&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyuk1&layout=compact&langs_count=7&theme=omni"/>
 </div>
