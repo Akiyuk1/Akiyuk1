@@ -1,5 +1,5 @@
 <h1 align="center"> Prazer, eu sou o Akiyuki !!!</h1>
-<h2 align="center"> print('Github da Empresa')</h2>
+<h2 align="center"> console.log('Github da Empresa')</h2>
 
 <div align="center">
   <a href="https://github.com/Akiyuk1">
