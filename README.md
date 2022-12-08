@@ -1,10 +1,10 @@
-<h1 align="center"> Olá, eu sou o Akiyuki !!!</h1>
+<h1 align="center"> Prazer, eu sou o Akiyuki !!!</h1>
 <h2 align="center"> print('Github da Empresa')</h2>
 
 <div align="center">
   <a href="https://github.com/Akiyuki090">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Akiyuki090&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyuki090&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Akiyuk1&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyuk1&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div align = "center"><br>
   <img align="center" alt="Akiyuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
