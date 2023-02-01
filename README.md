@@ -1,5 +1,4 @@
-<h1 align="center"> Prazer, eu sou o Akiyuki !!!</h1>
-<h2 align="center"> console.log('Github da Empresa')</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vcenter=true&pause=1000&color=56BCD8&width=1000&lines=print(%22Ol%C3%A1+eu+sou+o+Akiyuki%22);console.log(%22Github+da+empresa%22);SELECT+Estagi%C3%A1rio+FROM+Brid_Solucoes)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Akiyuk1">
